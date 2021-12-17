@@ -1,7 +1,7 @@
 # SImple_ChromeExtension
 A simple chrome extension you can customize!
 
-** How to use this for development**
+**How to use this for development**
 
 1. Go to google chrome.
 
