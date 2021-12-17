@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Example Extension",
+    "description": "This is an example extension that I have created!!",
+    "version": "1.0",
+    "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+    }
+    }
